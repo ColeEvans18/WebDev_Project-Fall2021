@@ -45,3 +45,11 @@
     text-align: center;
     font-size: medium;
 }
+.bold {
+    font-weight:bold;
+    font-style: normal;
+    text-decoration:dotted;
+}
+.underline{
+    color:peru;
+}
