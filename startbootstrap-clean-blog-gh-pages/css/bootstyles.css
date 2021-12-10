@@ -1,0 +1,39 @@
+.common {
+    position: absolute;
+    background-color: black;
+}
+.bodybackground {
+    background-color: lightskyblue;
+}
+.header {
+    top: 5px;
+    left: 5px;
+    right: 5px;
+    height: 100px;
+    z-index: 2;
+}
+
+.mainbody {
+    top: 10px;
+    bottom: 10px;
+    left: 5px;
+    right: 5px; 
+}
+.tableau {
+    left: 30px;
+    right: 30px;
+    top: 10px;
+    bottom: 10px;
+    position: absolute;
+}
+
+.footer {
+    bottom: 5px;
+    height: 40px;
+    left: 5px;
+    right: 5px;
+    font-size: 8px;
+    text-align: center;
+    position: fixed;
+    border-top: solid 2px thistle;
+}
