@@ -3,7 +3,7 @@
     background-color: black;
 }
 .bodybackground {
-    background-color: lightskyblue;
+    background-color: black;
 }
 .header {
     top: 5px;
@@ -20,15 +20,12 @@
     right: 5px; 
 }
 .tableau {
-    left: 30px;
-    right: 30px;
-    top: 10px;
-    bottom: 10px;
-    position: absolute;
+   color: lightskyblue;
+   text-align: center;
 }
 
 .footer {
-    bottom: 5px;
+    bottom: 0px;
     height: 40px;
     left: 5px;
     right: 5px;
