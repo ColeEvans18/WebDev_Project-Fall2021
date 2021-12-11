@@ -53,3 +53,15 @@
 .underline{
     color:peru;
 }
+.main {
+    width: 94.75%;
+    margin: auto;
+    overflow: hidden;
+}
+.columns {
+    width: 30%;
+    height: 500px;
+    float: left;
+    text-align: center;
+    margin: 1%;
+}
