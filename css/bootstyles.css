@@ -12,13 +12,15 @@
     right: 5px;
     height: 100px;
     z-index: 2;
+    resize: horizontal;
 }
 
 .mainbody {
     top: 10px;
     bottom: 10px;
     left: 5px;
-    right: 5px; 
+    right: 5px;
+    resize: both;
 }
 .tableau {
    color: lightskyblue;
@@ -35,4 +37,5 @@
     position: fixed;
     border-top: solid 2px thistle;
     color: thistle;
+    resize: vertical;
 }
